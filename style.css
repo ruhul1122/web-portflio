@@ -59,7 +59,7 @@
     
    .half-width1 {
 
-    width: 35%;
+    width: 33%;
     float: left;
     margin-left: 5%;
     padding: 2%;
@@ -103,8 +103,41 @@
 
    }
 
-   .half-width{
+   .single{
    
-    width: ;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 45%;
+    background-color: white;
 
    }
+
+   .exprience-area{
+
+   background-image: url("image/exp-bg.png");
+   background-repeat: no-repeat;
+   background-position: left;
+   
+   }
+
+   #full-stack{
+
+   border-left: 7px solid;
+   border-image: linear-gradient(180deg,lightsalmon,tomato);
+   border-image-slice: 1;
+
+   }
+
+     #baby-web{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+ 
+    }
+
+    #foo{
+
+  text-align: center;
+
+    }
